@@ -47,7 +47,7 @@ limitations under the License.
     <stagingDirectory>${project.basedir}/target/docs</stagingDirectory>
 
     <avro.version>1.7.3</avro.version>
-    <elasticsearch.version>0.90.1</elasticsearch.version>
+    <elasticsearch.version>6.8.15</elasticsearch.version>
   </properties>
 
   <modules>
